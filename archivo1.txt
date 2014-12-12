@@ -1,1 +1,4 @@
 Este es el primer archivo en el que trabajo
+
+Esto es hecho después del primer pnto de control
+y quedará registrado en el segundo punto.
